@@ -1,6 +1,6 @@
 ### Hallo 👋
 
-Vielen Dank für Ihren Besuch und wilkommen auf meinem Github Profil! 😊
+**Vielen Dank für Ihren Besuch und wilkommen auf meinem Github Profil!** 😊
 
 Hier sind einige Fakten über mich:
 
