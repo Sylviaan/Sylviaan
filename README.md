@@ -12,6 +12,6 @@ Hier sind einige Fakten über mich:
 
 - 👉 In meiner Freizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️
 
--
+
 
 
