@@ -8,9 +8,12 @@ Hier sind einige Fakten über mich:
 
 - 🌱 Ich bin daran interessiert, meine Programmiersprachen Kentnisse zu verbessern.
 
-- ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern.
+- ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern,
+   indem ich einfache Projekte mache. [Hier](https://mehrapi.github.io) können Sie die Projekte einsehen.
 
 - 👉 In meiner Freizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️.
+
+
 
 
 
