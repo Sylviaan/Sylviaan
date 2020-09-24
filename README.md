@@ -6,9 +6,9 @@ Hier sind einige Fakten über mich:
 
 - 🔭 Ich mache derzeit eine Ausbildung als Fachinformatikerin Anwendungsentwicklung
 
-- 🌱 Ich bin daran interessiert, meine Programmiersprachen Kentnisse zu verbessern.
+- 🌱 Ich bin daran interessiert, meine Programmiersprachen Kentnisse zu verbessern
 
-- ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern.
+- ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern
 
 - 👉 In meiner Freizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️
 
