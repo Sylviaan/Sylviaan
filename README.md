@@ -1,6 +1,6 @@
 ### Hallo 👋
 
-**Vielen Dank für Ihren Besuch und wilkommen auf meinem Github Profil!** 😊
+**Vielen Dank für Ihren Besuch 🙏 und wilkommen auf meinem Github Profil!** 😊
 
 Hier sind einige Fakten über mich:
 
@@ -8,10 +8,10 @@ Hier sind einige Fakten über mich:
 
 - 🌱 Ich bin daran interessiert, meine Programmiersprachen Kentnisse zu verbessern.
 
-- :+1: Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern.
+- ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern.
 
-- ✍ Außerdem lerne ich auch Linux
+- 👉 In meiner Fraizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️
 
-- 
+-
 
 
