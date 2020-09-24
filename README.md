@@ -10,7 +10,7 @@ Hier sind einige Fakten über mich:
 
 - ✍ Vor allem möchte ich meine Fertigkeiten im Java, C#, und Javascripts verbessern.
 
-- 👉 In meiner Fraizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️
+- 👉 In meiner Freizeit besuche ich gerne Museums und historische Stätten in Berlin  🚵‍♀️🧗‍♀️🏃‍♀️
 
 -
 
