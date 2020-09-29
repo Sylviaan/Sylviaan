@@ -11,9 +11,9 @@ Hier sind einige Fakten über mich:
 - ✍ Vor allem möchte ich meine Fertigkeiten im Java, PHP, und Javascripts verbessern,</br>
    indem ich einfache Projekte mache. [Hier](https://mehrapi.github.io) können Sie die Projekte einsehen.
 
-- In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
+- 🚵🏽‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
 
-- Lesen, reisen, photograieren, Volleyball und Badmington spielen
+- 📌Lesen, reisen, photograieren, Volleyball und Badmington spielen
 sind auch meine Interesse.
 
 
