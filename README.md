@@ -16,9 +16,10 @@ Hier sind einige Fakten über mich:
 
 - 🚵🏽‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
 
-- 📌 Außerdem lesen, reisen, photograieren, Volleyball und Badmington spielen
+- 🧗‍♀️Außerdem lesen, reisen, photograieren, Volleyball und Badmington spielen
 sind auch meine Interesse.
 
+- 📌Interessante Nebenbemerkung: Ich plane den Berlin Marathon zu laufen🏃‍♀️.
 
 
 
