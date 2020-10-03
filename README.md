@@ -23,9 +23,13 @@ sind auch meine Interesse.
 - 📌 Interessante Nebenbemerkung: Ich plane den Berlin Marathon zu laufen🏃‍♀️.
 
 
+
 # My Repo
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&layout=compact)
+
+
 
 
