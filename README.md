@@ -39,9 +39,9 @@ und Volleyball spielen sind auch meine Interesse.
 
 ## Meine Repo
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mehrapi&repo=vennfig&show_owner=true)](https://github.com/Mehrapi/ErsparnisAssistant)
+[![Ersparnis_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=vennfig&show_owner=true)](https://github.com/Mehrapi/ErsparnisAssistant)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=mehrapi&repo=statsfig&show_owner=true)](https://github.com/Mehrapi/Flickr_Suchmachine)
+[![Flickr_Suchmachine](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=statsfig&show_owner=true)](https://github.com/Mehrapi/Flickr_Suchmachine)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mehrapi&repo=covid-19-stats&show_owner=true)](https://github.com/Mehrapi/Stoppuhr)
+[![Stoppuhr](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=covid-19-stats&show_owner=true)](https://github.com/Mehrapi/Stoppuhr)
 
