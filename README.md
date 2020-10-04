@@ -1,9 +1,9 @@
 ![My Post2](https://user-images.githubusercontent.com/71266593/94726550-ae892f00-035d-11eb-915a-ca6b80d82bdc.png)
 
 
-#Hallo👋! 
+# Hallo👋! 
 
-####**Vielen Dank für Ihren Besuch 🙏 und wilkommen auf meinem Github Profil!** <
+**Vielen Dank für Ihren Besuch 🙏 und wilkommen auf meinem Github Profil!** 
 
 Hier sind einige Fakten über mich:
 
@@ -20,7 +20,7 @@ und Volleyball spielen sind auch meine Interesse.
 
 
 
-#### Meine Statistik
+### Meine Statistik
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=highcontrast&show_icons=true&count_private=true)
@@ -28,14 +28,14 @@ und Volleyball spielen sind auch meine Interesse.
 
 
 
-####  Sprachen die ich am meisten verwende
+### Sprachen die ich am meisten verwende
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&layout=compact)
 
 
 
 
-#### Meine Repo
+### Meine Repo
 
 [![Stoppuhr](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=Stoppuhr&show_owner=true)](https://github.com/Mehrapi/Stoppuhr)
 [![Flickr_Suchmachine](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=Flickr_Suchmachine&show_owner=true)](https://github.com/Mehrapi/Flickr_Suchmachine)
