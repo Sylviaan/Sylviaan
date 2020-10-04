@@ -15,10 +15,9 @@ Hier sind einige Fakten über mich:
 - ✍ Vor allem möchte ich meine Fertigkeiten im Java, PHP, und Javascripts verbessern,</br>
    indem ich einfache Projekte mache. [Hier](https://mehrapi.github.io) können Sie die Projekte einsehen.
 
-- 🚵🏽‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. Außerdem lesen, reisen, photograieren,
+- 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. Außerdem lesen, reisen, photograieren,
 und Volleyball spielen sind auch meine Interesse.
 
-- 📌 Interessante Nebenbemerkung: Ich plane den Berlin Marathon zu laufen🏃‍♀️.
 
 
 
