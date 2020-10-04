@@ -28,7 +28,7 @@ und Volleyball spielen sind auch meine Interesse.
 
 
 
-### Sprachen die ich am meisten verwende
+### Die meinsten verwenden Sprachen
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&layout=compact)
 
