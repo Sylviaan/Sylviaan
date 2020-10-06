@@ -22,11 +22,8 @@ und Volleyball spielen sind auch meine Interesse.
 
 ### Meine Statistiken
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&hide=Ruby)
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
 
 
 ### Meine Repo
