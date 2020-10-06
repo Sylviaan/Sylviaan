@@ -20,10 +20,16 @@ und Volleyball spielen sind auch meine Interesse.
 
 
 
-### Meine Statistiken
+### Wie ich bis jetzt Github benutzt habe
+
+**Meine Github Statistik**
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
+
+**Die Sprachen die ich am meisten verwende**
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&hide=Ruby)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
+
 
 
 ### Meine Repo
