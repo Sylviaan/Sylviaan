@@ -15,7 +15,9 @@ Hier sind einige Fakten über mich:
 
 - 👉 [Hier](https://mehrapi.github.io) können Sie die Projekte, die ich geschafft habe, einsehen.
 
-- 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. Außerdem lesen, reisen, photograieren,
+- 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
+
+- 🚵‍♀️ Außerdem lesen, reisen, photograieren,
 und Volleyball spielen sind auch meine Interesse.
 
 
