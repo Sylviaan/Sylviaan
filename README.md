@@ -9,10 +9,11 @@ Hier sind einige Fakten über mich:
 
 - 🔭 Ich mache derzeit eine Ausbildung als Fachinformatikerin Anwendungsentwicklung.
 
-- 🌱 Ich bin daran interessiert, meine Programmiersprachen Kentnisse zu verbessern.
+- 🌱 Ich bin daran interessier, meine Fertigkeiten im Java, C++, und Javascripts zu verbessern.
 
-- ✍ Vor allem möchte ich meine Fertigkeiten im Java, PHP, und Javascripts verbessern,</br>
-   indem ich einfache Projekte mache. [Hier](https://mehrapi.github.io) können Sie die Projekte einsehen.
+- ✍ Ich lerne durch Probieren, indem ich einfache Projekte von Bücher mache und modifiziere. 
+
+- [Hier](https://mehrapi.github.io) können Sie die Projekte, die ich geschafft habe, einsehen.
 
 - 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. Außerdem lesen, reisen, photograieren,
 und Volleyball spielen sind auch meine Interesse.
