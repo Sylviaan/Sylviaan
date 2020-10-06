@@ -24,12 +24,6 @@ und Volleyball spielen sind auch meine Interesse.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
-
-
-
-
-### Die meinsten verwenden Sprachen
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&layout=compact)
 
 
