@@ -17,7 +17,7 @@ Hier sind einige Fakten über mich:
 
 - 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
 
-- 🚵‍♀️ Außerdem lesen, reisen, photograieren,
+- 🚵‍♀️ Außerdem lesen, reisen, photografieren,
 und Volleyball spielen sind auch meine Interesse.
 
 
