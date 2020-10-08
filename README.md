@@ -9,7 +9,7 @@ Hier sind einige Fakten über mich:
 
 - 🔭 Ich mache derzeit eine Ausbildung als Fachinformatikerin Anwendungsentwicklung.
 
-- 🌱 Ich bin daran interessier, meine Fertigkeiten im Java, C++, und Javascripts zu verbessern.
+- 🌱 Ich bin daran interessiert, meine Fertigkeiten im Java, C++, und Javascripts zu verbessern.
 
 - ✍ Ich lerne durch Probieren, indem ich einfache Projekte von Bücher mache und modifiziere. 
 
