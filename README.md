@@ -1,4 +1,4 @@
-![Ad](https://user-images.githubusercontent.com/71266593/95497278-5af09400-09a2-11eb-8f64-2fb128c94517.jpeg)
+![Ad](https://user-images.githubusercontent.com/71266593/95565210-20c5d780-0a20-11eb-9fa8-6405b6858a74.jpeg)
 
 
 # Hallo👋! 
