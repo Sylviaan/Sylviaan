@@ -1,41 +1,26 @@
 
+<h1 align="center">Hello 👋, I'm Mehrapi</h1>
+<h3 align="center">Thank you very much for visiting my profile!</h3>
 
+<p align="left"> <a href="https://twitter.com/mehrapi" target="blank"><img src="https://img.shields.io/twitter/follow/mehrapi?logo=twitter&style=for-the-badge" alt="mehrapi" /></a> </p>
 
-# Hallo👋! 
+- 🔭 I’m an **Information Technology Trainee**
 
-### Vielen Dank für Ihren Besuch 🙏 und wilkommen auf meinem Github Profil! 
+- 🌱 I’m based **in Berlin**
 
-Hier sind einige Fakten über mich:
+- 👯 I’m currently preparing a **CCNA certificate**
 
-- 🔭 Ich mache derzeit eine Ausbildung als Fachinformatikerin Anwendungsentwicklung.
+- 🤝 I’m working to **improve my programming skills**
 
-- 🌱 Ich bin daran interessiert, meine Fertigkeiten im Java, C++, und Javascripts zu verbessern.
+- 👨‍💻 All of my projects are available at [https://mehrapi.github.io](https://mehrapi.github.io)
 
-- ✍ Ich lerne durch Probieren, indem ich einfache Projekte von Bücher mache und modifiziere. 
+- 📝 I write articles on [https://sieblogt.github.io](https://sieblogt.github.io)
 
-- 👉 [Hier](https://mehrapi.github.io) können Sie die Projekte, die ich geschafft habe, einsehen.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sylviacims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylviacims" height="30" width="40" /></a>
+</p>
 
-- 🏃‍♀️ In meiner Freizeit besuche ich gerne Museums und historische Stätten. 
-
-- 🚵‍♀️ Außerdem lesen, reisen, photografieren,
-und Volleyball spielen sind auch meine Interesse.
-
-
-### Meine Github Statistik
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mehrapi&theme=buefy&show_icons=true&count_private=true)
-
-
-### Die Sprachen die ich am meisten verwende
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrapi&hide=Ruby&layout=compact)
-
-
-
-### Meine Repo
-
-[![Stoppuhr](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=Stoppuhr&show_owner=true)](https://github.com/Mehrapi/Stoppuhr)
-[![Flickr_Suchmachine](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=Flickr_Suchmachine&show_owner=true)](https://github.com/Mehrapi/Flickr_Suchmachine)
-
-[![Ersparnis_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=ErsparnisAssistant&show_owner=true)](https://github.com/Mehrapi/ErsparnisAssistant)
-[![Math Flashkarte](https://github-readme-stats.vercel.app/api/pin/?username=Mehrapi&repo=MathFlashkarte&show_owner=true)](https://github.com/Mehrapi/MathFlashkarte) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
