@@ -6,15 +6,15 @@
 
 - 🔭 I’m an **Information Technology Trainee**
 
-- 🌱 I’m based **in Berlin**
+- 🌱 Based **in Berlin**
 
 - 👯 I’m currently preparing a **CCNA certificate**
 
-- 🤝 I’m working to **improve my programming skills**
+- 🤝 I’m interested in **improving my programming skills**
 
-- 👨‍💻 All of my projects are available at [https://mehrapi.github.io](https://mehrapi.github.io)
+- 👨‍💻 All of my projects are available [here](https://mehrapi.github.io)
 
-- 📝 I write articles on [https://sieblogt.github.io](https://sieblogt.github.io)
+- 📝 I write articles [here](https://sieblogt.github.io) to improve my German
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
