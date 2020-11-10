@@ -7,9 +7,10 @@
 <br>
 
 
-- 🔭 I’m an **Information Technology Trainee ** at [Dama.go GmbH](https://www.damago.de/)
+- 🔭 I’m an **Information Technology Trainee** [Dama.go GmbH](https://www.damago.de/)
 
 - 🌱I'm based **in Berlin**
+
 - 👯 Currently I am preparing **my CCNA certificate**
 
 - 🤝 I’m interested **in improving my programming skills**
