@@ -7,17 +7,17 @@
 <br>
 
 
-<center>🔭 I’m an **Information Technology Trainee** at [dama.go GmbH](https://www.damago.de/de/)</center>
+<p align="center">🔭 I’m an <b>Information Technology Trainee <b> at <a href="https://www.damago.de/" target="blank">Dama.go GmbH</a></p>
 
-- 🌱 Based **in Berlin**
+<p align="center">🌱 Based <b>in Berlin<b></p>
 
-- 👯 Currently I am preparing a **CCNA certificate**
+<p align="center">👯 Currently I am preparing a **CCNA certificate**</p>
 
-- 🤝 I’m interested in **improving my programming skills**
+<p align="center">🤝 I’m interested in **improving my programming skills**</p>
 
-- 👨‍💻 All of my projects are available [here](https://mehrapi.github.io)
+<p align="center">👨‍💻 All of my projects are available [here](https://mehrapi.github.io)</p>
 
-- 📝 I write articles [here](https://sieblogt.github.io) to improve my German
+<p align="center">📝 I write articles [here](https://sieblogt.github.io) to improve my German</p>
 <br>
 
 <h3 align="center">Connect with me:</h3>
@@ -32,4 +32,4 @@
 <br>
 
 <h3 align="center">Github Statistics:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mehrapi&show_icons=true&locale=en" alt="mehrapi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapi&show_icons=true&locale=en" alt="mehrapi" /></p>
