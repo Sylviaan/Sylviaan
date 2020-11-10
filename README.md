@@ -6,7 +6,8 @@
 <p align="center">  </p>
 <br>
 
-<p align="center"> 🔭 I’m an **Information Technology Trainee** at [dama.go GmbH](https://www.damago.de/de/) </p>
+
+<center>🔭 I’m an **Information Technology Trainee** at [dama.go GmbH](https://www.damago.de/de/)</center>
 
 - 🌱 Based **in Berlin**
 
