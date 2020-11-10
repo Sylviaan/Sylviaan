@@ -11,13 +11,13 @@
 
 <p align="center">🌱 Based <b>in Berlin<b></p>
 
-<p align="center">👯 Currently I am preparing a **CCNA certificate**</p>
+<p align="center">👯 Currently I am preparing a <b>CCNA certificate<b></p>
 
-<p align="center">🤝 I’m interested in **improving my programming skills**</p>
+<p align="center">🤝 I’m interested in <b>improving my programming skills<b></p>
 
-<p align="center">👨‍💻 All of my projects are available [here](https://mehrapi.github.io)</p>
+<p align="center">👨‍💻 All of my projects are available<a href="https://mehrapi.github.io" target="blank">here</a> </p>
 
-<p align="center">📝 I write articles [here](https://sieblogt.github.io) to improve my German</p>
+<p align="center">📝 I write articles <a href="https://sieblogt.github.io" target="blank">here</a> to improve my German</p>
 <br>
 
 <h3 align="center">Connect with me:</h3>
