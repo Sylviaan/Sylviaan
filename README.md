@@ -7,17 +7,16 @@
 <br>
 
 
-<p align="center">🔭 I’m an <b>Information Technology Trainee <b> at <a href="https://www.damago.de/" target="blank">Dama.go GmbH.</a></p>
+- 🔭 I’m an **Information Technology Trainee ** at [Dama.go GmbH](https://www.damago.de/)
 
-<p align="center"> I'm based <b>in Berlin🌱 <b></p>
+- 🌱I'm based **in Berlin**
+- 👯 Currently I am preparing **my CCNA certificate**
 
-<p align="center">👯 Currently I am preparing a <b>CCNA certificate<b></p>
+- 🤝 I’m interested **in improving my programming skills**
 
-<p align="center">🤝 I’m interested in <b>improving my programming skills<b></p>
+- 👨‍💻 All of my projects are available[here](https://mehrapi.github.io).
 
-<p align="center">👨‍💻 All of my projects are available<a href="https://mehrapi.github.io" target="blank">here</a> </p>
-
-<p align="center">📝 I write articles <a href="https://sieblogt.github.io" target="blank">here</a> to improve my German</p>
+- 📝 I write articles [here](https://sieblogt.github.io) to improve my German.
 <br>
 
 <h3 align="center">Connect with me:</h3>
