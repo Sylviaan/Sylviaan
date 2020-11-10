@@ -7,9 +7,9 @@
 <br>
 
 
-<p align="center">🔭 I’m an <b>Information Technology Trainee <b> at <a href="https://www.damago.de/" target="blank">Dama.go GmbH</a></p>
+<p align="center">🔭 I’m an <b>Information Technology Trainee <b> at <a href="https://www.damago.de/" target="blank">Dama.go GmbH.</a></p>
 
-<p align="center">🌱 Based <b>in Berlin<b></p>
+<p align="center"> I'm based <b>in Berlin🌱 <b></p>
 
 <p align="center">👯 Currently I am preparing a <b>CCNA certificate<b></p>
 
