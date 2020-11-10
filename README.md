@@ -14,7 +14,7 @@
 
 - 🤝 I’m interested **in improving my programming skills**
 
-- 👨‍💻 All of my projects are available[here](https://mehrapi.github.io).
+- 👨‍💻 All of my projects are available [here](https://mehrapi.github.io).
 
 - 📝 I write articles [here](https://sieblogt.github.io) to improve my German.
 <br>
