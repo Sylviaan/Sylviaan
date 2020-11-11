@@ -11,9 +11,9 @@
 
 - 🌱 I'm based **in Berlin**
 
-- 👯 Currently I am preparing **my CCNA certificate**
+- 👯 Currently I am learning about **my networking fundamentals**
 
-- 🤝 I’m interested **in improving my programming skills**
+- 🤝 I’m interested **in improving my programming and infosec skills**
 
 - 👨‍💻 All of my projects are available [here](https://mehrapi.github.io).
 
