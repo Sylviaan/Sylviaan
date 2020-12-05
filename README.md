@@ -11,7 +11,7 @@
 
 - 🌱 I'm based **in Berlin**
 
-- 👯 Currently I am learning about **networking fundamentals**
+- 👯 Currently I am learning about **networking**
 
 - 🤝 I’m interested **in improving my programming and infosec skills**
 
