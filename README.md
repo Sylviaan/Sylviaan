@@ -9,13 +9,11 @@
 
 - 🔭 I’m an **Information Technology Trainee** at [Dama.go GmbH](https://www.damago.de/)
 
-- 🌱 I'm based **in Berlin**
-
 - 👯 Currently I am learning about **networking**
 
 - 🤝 I’m interested **in improving my programming and infosec skills**
 
-- 👨‍💻 All of my projects are available [here](https://mehrapi.github.io).
+- 👨‍💻 All of my finished and unfinished projects are available [here](https://mehrapi.github.io).
 
 - 📝 I write articles [here](https://sieblogt.github.io) to improve my German.
 <br>
