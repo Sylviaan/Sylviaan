@@ -15,7 +15,6 @@
 
 - 👨‍💻 All of my finished and unfinished projects are available [here](https://mehrapi.github.io).
 
-- 📝 I write articles [here](https://sieblogt.github.io) to improve my German.
 <br>
 
 <h3 align="left">Connect with me:</h3>
