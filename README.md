@@ -11,9 +11,9 @@
 
 - 👯 Currently I am learning about **networking and linux**
 
-- I'm interested in improving my **programming skills**
+- 🍀 I'm interested in improving my **programming skills**
 
-- I enjoy exploring **interesting repositories here** and learn from them. 
+- 🧅 I enjoy exploring **interesting repositories here** and learn from them. 
 
 - 👨‍💻 All of my finished and unfinished projects are available [here](https://mehrapi.github.io).
 
