@@ -9,9 +9,11 @@
 
 - 🔭 I’m an **Information Technology Trainee** at [Dama.go GmbH](https://www.damago.de/)
 
-- 👯 Currently I am learning about **networking, linux and other stuff**
+- 👯 Currently I am learning about **networking and linux**
 
-- 🤝 I 👍 **exploring interesting repositories here to learn from them or just by curiosity**
+- I'm interested in improving my **programming skills**
+
+- I enjoy exploring **interesting repositories here** and learn from them. 
 
 - 👨‍💻 All of my finished and unfinished projects are available [here](https://mehrapi.github.io).
 
