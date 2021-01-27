@@ -1,21 +1,19 @@
 
-<h1 align="center">Hello there 👋 </h1>
-<h3 align="center">Thank you very much for visiting my profile 🙏</h3>
+<h1 align="center">Hallo 👋 </h1>
+<h3 align="center">Vielen Dank, dass Sie hier sind 🙏</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehrapi&label=Profile%20views&color=0e75b6&style=flat" alt="mehrapi" /> <a href="https://twitter.com/mehrapi" target="blank"><img src="https://img.shields.io/twitter/follow/mehrapi?logo=twitter&style=for-the-badge" alt="mehrapi" /></a></p>
 
 <p align="center">  </p>
 <br>
 
 
-- 🔭 I’m an **Information Technology Trainee** at [Dama.go GmbH](https://www.damago.de/)
+- 🔭 Ich mache derzeit eine Ausbildung als **Fachinformatiker** bei [Dama.go GmbH](https://www.damago.de/)
 
-- 👯 Currently I am learning about **networking and linux**
+- 🍀 Ich bin daran interessiert meine **Programmiersprachen Kentnisse** zu verbessern
 
-- 🍀 I'm interested in improving my **programming skills**
+- 🧅 Lernen von **interessanten Repo hier** macht mir spaß. 
 
-- 🧅 I enjoy exploring **interesting repositories here** and learn from them. 
-
-- 👨‍💻 All of my finished and unfinished projects are available [here](https://mehrapi.github.io).
+- 👨‍💻 Meine Projekte, die ich von Büchern gelernt habe, könnten Sie [hier](https://mehrapi.github.io) finden.
 
 <br>
 
