@@ -9,7 +9,7 @@
 
 - 🔭 Ich mache derzeit eine Ausbildung als **Fachinformatiker** bei [Dama.go GmbH](https://www.damago.de/)
 
-- 🍀 Ich bin daran interessiert meine **Programmiersprachen Kentnisse** zu verbessern
+- 🍀 Ich bin daran interessiert meine **Programmiersprachen Kenntnisse** zu verbessern
 
 - 🧅 Lernen von **interessanten Repo hier** macht mir spaß. 
 
