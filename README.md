@@ -7,7 +7,7 @@
 <br>
 
 
-- 🔭 Ich bin momentan in einer Ausbildung zum **Fachinformatiker für Anwendungsentwicklung**
+- 🔭 Ich bin momentan in einer Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** bei Dama.go GmbH
 
 - 🍀 Ich bin daran interessiert meine **Programmiersprachen Kenntnisse** zu verbessern
 
