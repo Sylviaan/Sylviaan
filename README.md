@@ -13,7 +13,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sylviacims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylviacims" height="30" width="40" /></a>
 <a href="https://dev.to/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mehrapi" height="30" width="40" /></a>
 </p>
 <br>
