@@ -6,14 +6,7 @@
 <p align="center">  </p>
 <br>
 
-
-- 🔭 Ich bin momentan in einer Ausbildung zum **Fachinformatiker für Anwendungsentwicklung** bei Dama.go GmbH
-
-- 🍀 Ich bin daran interessiert meine **Programmiersprachen Kenntnisse** zu verbessern
-
-- 🧅 Lernen von **interessanten Repo hier** macht mir spaß. 
-
-- 👨‍💻 Meine Projekte, die ich von Büchern gelernt habe, könnten Sie [hier](https://mehrapi.github.io) finden.
+💥 Meine [Website](https://mehrapi.github.io) 💥
 
 <br>
 
