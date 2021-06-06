@@ -6,7 +6,7 @@
 <p align="center">  </p>
 <br>
 <h3 align="left">Über mich:</h3>
-👉 `Besuchen Sie meine` [Website](https://mehrapi.github.io)
+<a href="https://linkedin.com/in/sylviacims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylviacims" height="30" width="40" /></a>
 
 <br>
 
