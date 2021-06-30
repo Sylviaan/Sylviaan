@@ -22,4 +22,4 @@
 <br>
 
 <h3 align="center">Github Statistics:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapi&show_icons=true&locale=en" alt="mehrapi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapi&show_icons=true&locale=en" alt="mehrapi" /></p>
