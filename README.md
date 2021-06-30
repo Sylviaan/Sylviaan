@@ -6,8 +6,6 @@
 <p align="center"> Vielen Dank dass Sie hier sind 🙏. Ich bin Sylvia und mache derzeit eine Ausbildung zur Fachinformatikerin für Anwendungsentwicklung 💻📚. Github macht mir sehr viel Spaß, hier habe ich umfangreich Kenntnisse über Opensource gesammelt und auch Projekte, die ich von Bücher gelernt habe, gelagert!🤘 </p>
 <br>
 
--  
-
 
 <br>
 
