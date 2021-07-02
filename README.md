@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehrapi&label=Profile%20views&color=0e75b6&style=flat" alt="mehrapi" /> <a href="https://twitter.com/mehrapi" target="blank"><img src="https://img.shields.io/twitter/follow/mehrapi?logo=twitter&style=for-the-badge" alt="mehrapi" /></a></p>
 <br>
 <h4 align="center">Hallo 👋, vielen Dank dass Sie hier sind 🙏. </h4>
-<p align="center">  Ich bin Sylvia und mache derzeit eine Ausbildung zur Fachinformatikerin für Anwendungsentwicklung 📚. Github macht mir sehr viel Spaß, ich erkunde gerne Repositories, die mich interessierren, dadurch habe ich umfangreich Kenntnisse über Opensource gesammelt. Dann habe ich auch Projekte, die ich von Bücher gelernt habe, hier gelagert 🤘. Viel Spaß auf der anderen Seite des Bildschirms🖥!</p>
+<p align="center">  Ich bin Sylvia und mache derzeit eine Ausbildung zur Fachinformatikerin für Anwendungsentwicklung 📚. Github macht mir sehr viel Spaß, ich erkunde gerne Repositories, die mich interessierren, dadurch habe ich umfangreich Kenntnisse über Opensource gesammelt. Dann habe ich auch Projekte, die ich von Bücher gelernt habe, hier gelagert 🤘.<br> Viel Spaß auf der anderen Seite des Bildschirms🖥!</p>
 
 <br>
 
