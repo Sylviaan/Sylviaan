@@ -5,7 +5,7 @@
   <!-- <a href="https://twitter.com/mehrapi" target="blank"><img src="https://img.shields.io/twitter/follow/mehrapi?logo=twitter&style=for-the-badge" alt="mehrapi" />--> </a></p>
 <br>
 <h4 align="center">Hallo 👋, vielen Dank dass Sie hier sind 🙏. </h4>
-<p align="center">  Ich bin Sylvia und Ich mache derzeit eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung 📚. <br>  </p>
+<p align="center">  Ich bin Sylvia und ich mache derzeit eine Umschulung zur Fachinformatikerin für Anwendungsentwicklung 📚. <br>  </p>
 
 <br>
 
