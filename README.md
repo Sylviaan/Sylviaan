@@ -11,8 +11,8 @@
 
 <h4 3 align="center">Kontakte:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/sylviacims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylviacims" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/sylvianpaulot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylvianpaulot" height="30" width="40" /></a>
+<!-- <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a> -->
 <a href="https://dev.to/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mehrapi" height="30" width="40" /></a>
 </p>
 <br>
@@ -22,4 +22,4 @@
 <br>
 
 <h4 align="center">Github Statistiken: </h4>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrapi&show_icons=true&locale=en" alt="mehrapi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sylviaan&show_icons=true&locale=en" alt="Sylviaan" /></p>
