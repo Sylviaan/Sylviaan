@@ -11,9 +11,9 @@
 
 <h4 3 align="center">Kontakte:</h4>
 <p align="center">
-<a href="https://linkedin.com/in/sylvianpaulot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylvianpaulot" height="30" width="40" /></a>
-<!-- <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a> -->
-<a href="https://dev.to/mehrapi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mehrapi" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/sylvianpaulot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sylvianpaulot" height="30" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mehrapi" height="30" width="40" /></a> 
+-->
 </p>
 <br>
 
