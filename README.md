@@ -7,7 +7,7 @@
 <h4 align="center">Hallo 👋, vielen Dank dass Sie hier sind 🙏. </h4>
 <p align="center">  Ich bin Sylvia und ich habe gerade meiner Umschulung zur Fachinformatikerin für Anwendungsentwicklung abgeschlossen 📚. Ich bin momentan  auf der Suche nach einer geeigneten und interessanten Stelle. Vieles muss ich lernen, aber ich bin lernbereit und hoch motiviert. <br>  </p>
 
-<br>
+
 
 <h4 3 align="center"></h4>
 <p align="center">
